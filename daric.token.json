@@ -1,8 +1,9 @@
 {
   "name": "Daric",
   "symbol": "DA",
-  "address": "0xYourContractAddressHere",
   "decimals": 8,
+  "address": "0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E",
   "chainId": 137,
-  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C%20%D9%87%D8%A7/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/assets/logo.png"
 }
+
