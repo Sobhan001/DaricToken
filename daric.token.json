@@ -2,8 +2,7 @@
   "name": "Daric",
   "symbol": "DA",
   "decimals": 8,
-  "address": "0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E",
+  "address": "0x851BF7213b01192ad6C71DEa61B0876a998dd15E",
   "chainId": 137,
-  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/assets/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/assets/blockchains/polygon/assets/0x851BF7213b01192ad6C71DEa61B0876a998dd15E/logo.png"
 }
-
