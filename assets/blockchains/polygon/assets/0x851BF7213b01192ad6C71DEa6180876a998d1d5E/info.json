@@ -1,0 +1,10 @@
+{
+  "name": "Daric",
+  "symbol": "DA",
+  "address": "0x851BF7213b01192ad6C71DEa6180876a998d1d5E",
+  "chainId": 137,
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/assets/blockchains/polygon/assets/0x851BF7213b01192ad6C71DEa6180876a998d1d5E/logo.png",
+  "tags": ["token", "daric", "DA"],
+  "description": "Daric Token (DA) is a hybrid PoW/PoS asset for decentralized finance and payments, built on the Polygon blockchain."
+}
