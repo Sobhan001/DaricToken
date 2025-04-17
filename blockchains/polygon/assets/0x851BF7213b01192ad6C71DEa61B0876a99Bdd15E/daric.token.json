@@ -1,0 +1,11 @@
+{
+  "name": "Daric Token",
+  "symbol": "DA",
+  "address": "0x851BF7213b01192ad6C71DEa6180876a99Bdd15E",
+  "chainId": 137,
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/blockchains/polygon/assets/0x851BF7213b01192ad6C71DEa6180876a99Bdd15E/logo.png",
+  "description": "Daric Token (DA) is a hybrid PoW + PoS mineable token built on Polygon with strong security and decentralized features.",
+  "website": "https://darictoken.com",
+  "tags": ["mineable", "defi", "polygon", "pow", "pos"]
+}
