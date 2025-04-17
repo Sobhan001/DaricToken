@@ -1,0 +1,9 @@
+{
+  "name": "Daric",
+  "symbol": "DA",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E",
+  "logoURI": "https://raw.githubusercontent.com/Sobhan001/DaricToken/main/assets/blockchains/polygon/assets/0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E/logo.png"
+}
